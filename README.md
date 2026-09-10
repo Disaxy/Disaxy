@@ -1,60 +1,50 @@
 <div align="center">
-  <img src="assets/terminal.svg" alt="Roman Kholomev - Backend Engineer, Python and Go" width="900">
+  <img src="assets/profile-dashboard.svg" alt="Roman Kholomev - Backend Engineer, Python and Go" width="900">
 </div>
 
-```console
-$ cat about.txt
-Backend engineer with 7 years of experience building commercial systems,
-microservices, APIs, integrations, and business automation.
+<p align="center">
+  <a href="https://fossary.com"><strong>Fossary</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://t.me/disaxy">Telegram</a>
+</p>
 
-$ stack --primary
-Python · Go · Django · FastAPI · PostgreSQL · Redis · RabbitMQ · Kafka
-Docker · Kubernetes · GitHub Actions · GitLab CI · Pytest · OpenTelemetry
+I build backend systems from API design to production delivery. My work spans microservices, integrations, data-intensive services, infrastructure automation, and the engineering practices that keep them reliable.
 
-$ cat principles.txt
-Ship reliable software. Test what matters. Keep complexity under control.
-```
+**Core:** `Python` `Go` `Django` `FastAPI` `PostgreSQL` `Redis` `RabbitMQ` `Kafka` `Docker` `Kubernetes`
 
-## `./projects --featured`
+## Building now
 
-### [Fossary](https://fossary.com)
+<a href="https://fossary.com">
+  <img src="assets/fossary-card.svg" alt="Fossary - discover and deploy self-hosted software" width="900">
+</a>
 
-**Discover. Deploy. Own.**
+Fossary is an open-source catalog for finding and deploying self-hosted software. It combines discovery, comparison, server matching, and reviewed Docker Compose recipes with transparent verification history.
 
-An open-source catalog for finding and deploying self-hosted software. Fossary brings application discovery, comparison, server matching, and reviewed Docker Compose recipes into one place.
+[Visit fossary.com](https://fossary.com) · [Explore the public catalog](https://github.com/fossaryhq/catalog) · [Contribute](https://github.com/fossaryhq/catalog/issues)
 
-```console
-$ catalogctl validate ./catalog/apps
-checking manifests and recipes...
-✓ Schema valid
-✓ Environment documented
-✓ Smoke test metadata valid
-✓ Catalog valid
-```
+## What I care about
 
-[Explore Fossary](https://fossary.com) · [Contribute to the catalog](https://github.com/fossaryhq/catalog)
+- Designing clear APIs and maintainable service boundaries
+- Making reliability and observability part of the implementation
+- Automating repetitive work without hiding important decisions
+- Shipping useful open-source products, not just experiments
 
-## `./contact`
+## Contact
 
-[Telegram](https://t.me/disaxy) · [GitHub](https://github.com/Disaxy)
+[Telegram](https://t.me/disaxy) is the fastest way to reach me.
 
 <details>
 <summary><strong>Русская версия</strong></summary>
 
 ### Обо мне
 
-Backend-разработчик с 7-летним опытом создания коммерческих систем, микросервисов, API, интеграций и автоматизации бизнес-процессов.
+Backend-разработчик с 7-летним опытом. Проектирую и запускаю микросервисы, API, интеграции, data-intensive сервисы и автоматизацию инфраструктуры. Уделяю особое внимание надёжности, наблюдаемости и качеству production-систем.
 
-Основной стек: **Python, Go, Django, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Docker и Kubernetes**. В работе уделяю особое внимание надёжности production-систем, тестированию и контролю сложности.
+**Основной стек:** `Python` `Go` `Django` `FastAPI` `PostgreSQL` `Redis` `RabbitMQ` `Kafka` `Docker` `Kubernetes`
 
-### Главный проект
+### Над чем работаю сейчас
 
-**[Fossary](https://fossary.com)** - open-source каталог для поиска и развёртывания self-hosted приложений. Он объединяет подбор и сравнение приложений, проверку совместимости с сервером и проверенные Docker Compose-рецепты.
+**[Fossary](https://fossary.com)** - open-source каталог для поиска и развёртывания self-hosted приложений. Он объединяет подбор и сравнение приложений, проверку совместимости с сервером, проверенные Docker Compose-рецепты и прозрачную историю проверок.
 
-[Открыть Fossary](https://fossary.com) · [Помочь каталогу](https://github.com/fossaryhq/catalog) · [Написать в Telegram](https://t.me/disaxy)
+[Открыть Fossary](https://fossary.com) · [Посмотреть каталог](https://github.com/fossaryhq/catalog) · [Написать в Telegram](https://t.me/disaxy)
 
 </details>
-
-```console
-roman@github:~$ _
-```

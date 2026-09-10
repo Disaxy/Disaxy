@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-labelledby="title description">
+  <title id="title">Roman Kholomev developer dashboard</title>
+  <desc id="description">Backend engineer working with Python and Go, focused on reliable systems, developer tools, and open source.</desc>
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d1718"/>
+      <stop offset="0.55" stop-color="#101820"/>
+      <stop offset="1" stop-color="#171326"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#75f5c4"/>
+      <stop offset="0.52" stop-color="#67d8ff"/>
+      <stop offset="1" stop-color="#bd92ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#75f5c4" stop-opacity="0.85"/>
+      <stop offset="0.52" stop-color="#67d8ff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#bd92ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#75f5c4" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#75f5c4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#8aa0aa" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="900" height="470" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="470" fill="url(#shell)"/>
+    <rect width="900" height="470" fill="url(#grid)"/>
+    <circle cx="790" cy="20" r="260" fill="url(#glow)"/>
+    <circle cx="75" cy="450" r="210" fill="#8d63e8" opacity="0.045"/>
+  </g>
+  <rect x="1" y="1" width="898" height="468" rx="23" fill="none" stroke="#2b3c42" stroke-width="2"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <g transform="translate(34 28)">
+      <rect width="38" height="38" rx="11" fill="#17272a" stroke="#35504d"/>
+      <text x="19" y="25" text-anchor="middle" fill="#75f5c4" font-size="15" font-weight="800">RK</text>
+      <text x="52" y="17" fill="#dce7e9" font-size="14" font-weight="700">DISAXY.DEV</text>
+      <text x="52" y="35" fill="#73868c" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">PERSONAL WORKSPACE</text>
+    </g>
+
+    <g transform="translate(702 32)">
+      <rect width="164" height="30" rx="15" fill="#122520" stroke="#284a40"/>
+      <circle cx="18" cy="15" r="4" fill="#75f5c4"/>
+      <text x="31" y="20" fill="#a7d6c6" font-size="11" font-weight="700" letter-spacing="1">BUILDING IN PUBLIC</text>
+    </g>
+
+    <path d="M34 87H866" stroke="#26363c"/>
+
+    <g transform="translate(44 123)">
+      <text fill="#6f858b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2">BACKEND ENGINEER</text>
+      <text y="63" fill="url(#name)" font-size="47" font-weight="800" letter-spacing="-1.5">Roman Kholomev</text>
+      <rect y="83" width="392" height="2" fill="url(#line)"/>
+      <text y="121" fill="#aebdc1" font-size="17">I turn complex product requirements into</text>
+      <text y="148" fill="#aebdc1" font-size="17">reliable systems that are ready for production.</text>
+
+      <g transform="translate(0 183)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">
+        <rect width="88" height="34" rx="9" fill="#17262a" stroke="#2c4948"/>
+        <text x="44" y="22" text-anchor="middle" fill="#75f5c4">Python</text>
+        <rect x="98" width="56" height="34" rx="9" fill="#17232d" stroke="#294356"/>
+        <text x="126" y="22" text-anchor="middle" fill="#67d8ff">Go</text>
+        <rect x="164" width="104" height="34" rx="9" fill="#211d31" stroke="#40365b"/>
+        <text x="216" y="22" text-anchor="middle" fill="#c7a7f5">PostgreSQL</text>
+        <rect x="278" width="82" height="34" rx="9" fill="#28251a" stroke="#50472d"/>
+        <text x="319" y="22" text-anchor="middle" fill="#ead582">Docker</text>
+      </g>
+    </g>
+
+    <g transform="translate(535 112)">
+      <rect width="331" height="98" rx="16" fill="#121e23" stroke="#293b42"/>
+      <text x="22" y="28" fill="#71868d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.5">EXPERIENCE</text>
+      <text x="22" y="69" fill="#e4ecee" font-size="30" font-weight="750">7+ years</text>
+      <text x="159" y="67" fill="#8fa1a6" font-size="14">commercial backend</text>
+      <text x="159" y="86" fill="#8fa1a6" font-size="14">development</text>
+
+      <rect y="112" width="331" height="98" rx="16" fill="#121e23" stroke="#293b42"/>
+      <text x="22" y="140" fill="#71868d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.5">CURRENT PROJECT</text>
+      <text x="22" y="181" fill="#75f5c4" font-size="27" font-weight="750">Fossary</text>
+      <text x="135" y="180" fill="#8fa1a6" font-size="14">self-hosted software,</text>
+      <text x="135" y="199" fill="#8fa1a6" font-size="14">reviewed and deployable</text>
+
+      <rect y="224" width="331" height="98" rx="16" fill="#121e23" stroke="#293b42"/>
+      <text x="22" y="252" fill="#71868d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.5">ENGINEERING FOCUS</text>
+      <text x="22" y="289" fill="#e4ecee" font-size="15" font-weight="650">APIs · Microservices · Automation</text>
+      <text x="22" y="313" fill="#8fa1a6" font-size="14">Reliability · Testing · Delivery</text>
+    </g>
+
+    <g transform="translate(44 451)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">
+      <circle cx="5" cy="-4" r="4" fill="#75f5c4"/>
+      <text x="18" fill="#7f9298">SYSTEMS ONLINE</text>
+      <text x="674" fill="#63767d">UTC+03:00</text>
+      <path d="M126 -4H646" stroke="#26373d" stroke-dasharray="3 7"/>
+    </g>
+  </g>
+</svg>
