@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://fossary.com"><strong>Fossary</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://disaxy.dev"><strong>disaxy.dev</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://fossary.com">Fossary</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://t.me/disaxy">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:disaxy@gmail.com">Email</a>
 </p>
@@ -31,7 +32,7 @@ Fossary is an open-source catalog for finding and deploying self-hosted software
 
 ## Contact
 
-[Telegram](https://t.me/disaxy) · [disaxy@gmail.com](mailto:disaxy@gmail.com)
+[disaxy.dev](https://disaxy.dev) · [Telegram](https://t.me/disaxy) · [disaxy@gmail.com](mailto:disaxy@gmail.com)
 
 <details>
 <summary><strong>Русская версия</strong></summary>
@@ -46,6 +47,6 @@ Backend-разработчик с 7-летним опытом. Проектир�
 
 **[Fossary](https://fossary.com)** - open-source каталог для поиска и развёртывания self-hosted приложений. Он объединяет подбор и сравнение приложений, проверку совместимости с сервером, проверенные Docker Compose-рецепты и прозрачную историю проверок.
 
-[Открыть Fossary](https://fossary.com) · [Посмотреть каталог](https://github.com/fossaryhq/catalog) · [Telegram](https://t.me/disaxy) · [Email](mailto:disaxy@gmail.com)
+[Личный сайт](https://disaxy.dev) · [Открыть Fossary](https://fossary.com) · [Посмотреть каталог](https://github.com/fossaryhq/catalog) · [Telegram](https://t.me/disaxy) · [Email](mailto:disaxy@gmail.com)
 
 </details>
